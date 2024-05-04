@@ -1,0 +1,14 @@
+{
+    "yt_apikey": "YOUTUBE_APIKEY",
+    "yt_handle": "@urbanwildlifetrust",
+    "line_channelSecret": "LINE_CAHNNEL SECRET",
+    "line_channelToken": "LINE_CHANNEL TOKEN",
+    "message_foundChat": "There is new comment on the live streaming.\n[Comments below]",
+    "message_viewersIncreased": "Many people are watching the live streaming.\nMay something is happening, Let's witness!",
+    "threshold_viewers": 20,
+    "url": {
+        "colony_live_cam": "https://www.youtube.com/watch?v=CrpaelC0amM",
+        "nest_niwa": "https://www.youtube.com/watch?v=L9Qs9kuTA10",
+        "nest": "https://www.youtube.com/watch?v=Ojrx0sMp8UI"
+    }
+}
